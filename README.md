@@ -32,3 +32,8 @@
    **Paper 3**: [Tensor Rank Criteria for (p,p)-Classes](https://github.com/DavidFox998/tensor-rank-criteria-abelian-varieties)
    
    Verifies the Hodge conjecture for all 339 CM abelian varieties in the LMFDB.
+## License
+
+**Paper**: [CC BY 4.0](./LICENSE-CC-BY-4.0) 
+
+**Code**: [MIT License](./LICENSE)
