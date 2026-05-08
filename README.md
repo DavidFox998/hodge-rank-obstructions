@@ -21,3 +21,14 @@
 - **Paper 3**: `hodge-zoe-invariant` — Zoe invariant fixes test for p≥2
 
 **License**: MIT
+   # The Hodge Conjecture on CM Abelian Varieties: A Computational Trilogy
+   
+   [[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20087650.svg)](https://doi.org/10.5281/zenodo.20087650)
+   
+   **Paper 1**: [Computable Linear Recurrence Test](https://github.com/DavidFox998/hodge-cm-recurrence)
+   
+   **Paper 2**: [Rank Obstructions from the Zoe Invariant](https://github.com/DavidFox998/hodge-zoe-rank-obstructions)
+   
+   **Paper 3**: [Tensor Rank Criteria for (p,p)-Classes](https://github.com/DavidFox998/tensor-rank-criteria-abelian-varieties)
+   
+   Verifies the Hodge conjecture for all 339 CM abelian varieties in the LMFDB.
