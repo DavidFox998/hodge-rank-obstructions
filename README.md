@@ -50,3 +50,14 @@ sage: load("generate_paper2_data.sage")
 sage: omega = generate_omega(g=5, index=0)
 sage: A2(omega, g=5)
 False, rank(H) = 15
+@misc{fox2026rank,
+  author = {Fox, David J.},
+  title = {Rank Obstructions to Algebraic Cycles on Jacobians of Genus 3,4,5: 
+           A Computational Falsification of the Recurrence Test},
+  year = {2026},
+  doi = {10.5281/zenodo.20087650}
+License
+Code: MIT
+Paper: CC BY 4.0
+
+Contact: David J Fox | https://github.com/DavidFox998
